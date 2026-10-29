@@ -1,5 +1,6 @@
 # 30-days-of-python Journey
 I'm following the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+
 I just wanted to share my experience learning python for 30 days
 
 ## Progress
