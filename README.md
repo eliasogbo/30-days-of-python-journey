@@ -7,3 +7,5 @@ I just wanted to share my experience learning python for 30 days
 Day 1: Before I started learning on the official github page (I don't know what they're officially called), I watched the 3 hour long video and had already installed python and vs code, so I already have some basics down. So day 1 was kinda like me just revising what I'd learnt.
 We talked about the different data types like numbers(int, float, complex), string, boolean, list and I wanted to use the opportunity to really know the distinction between tuple, set, and dict. It's all in the parentheses :)
 The exercises were quite easy. I didn't understand the Euclidean distance stuff at first so I had to ask ai how to solve it, then I was able to put it into code.
+
+Day 2: Learnt how to assign variables and how to use basic arithmetic functions with variables. Also learnt a little bit about built in functions and keywords in python. Wasn't too hard since I'd already done this from the video. 
